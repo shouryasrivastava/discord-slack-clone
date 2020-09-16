@@ -24,8 +24,14 @@ npm start
 src
 ├── components
 │   ├── App.js
+│   ├── MainContainer.js
+│   ├── Sidebar.js
 │   ├── SignIn.js
+│   ├── Slack.js
 │   └── index.js
+├── firebase.js
 ├── index.css
-└── index.js
+├── index.js
+└── providers
+    └── UserProvider.js
 ```
